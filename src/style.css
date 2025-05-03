@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+canvas {
+  display: block;
+}
+#controls {
+  position: absolute;
+  left: 100px;
+  z-index: 100;
+}
